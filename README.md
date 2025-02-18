@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Matt VerLee
 ===================================================================================================================================
-
-Developer, Administrator, and Student
+I make things happen with bits and bytes.
 -------------------------------------
 
 * 🌍  I'm based in Denver, CO, USA
