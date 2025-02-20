@@ -1,4 +1,4 @@
-# Hey there, I'm Matt VerLee! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hey there, I'm Matt! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I’m all about making things happen with bits and bytes.
 
@@ -6,12 +6,12 @@ I’m all about making things happen with bits and bytes.
 
 ## A Bit About Me
 
-- 🌍 **Where I’m At:** Denver, CO, USA
-- ✉️ **Hit Me Up:** [matt@doubleangels.com](mailto:matt@doubleangels.com)
-- 🚀 **Current Gig:** Working on [NextDNS Manager](http://github.com/mtverlee/nextdnsmanager)
-- 🧠 **Learning Curve:** Diving into React right now
-- 🤝 **Open to Collabs:** Always up for cool projects and ideas
-- ⚡ **My Vibe:** I believe technology has endless possibilities
+- 🌍 **Where I’m At** - Denver, CO, USA
+- ✉️ **Hit Me Up** - [matt@doubleangels.com](mailto:matt@doubleangels.com)
+- 🚀 **Current Gig** - Working on [NextDNS Manager](http://github.com/mtverlee/nextdnsmanager)
+- 🧠 **Learning Curve** - I'm diving into React right now!
+- 🤝 **Open to Collabs** - I'm always up for cool projects and ideas!
+- ⚡ **My Vibe** - I believe technology has endless possibilities!
 
 ---
 
@@ -62,15 +62,5 @@ I’m all about making things happen with bits and bytes.
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
-</p>
-
----
-
-## Let’s Connect
-
-<p align="left">
-  <a href="https://www.github.com/doubleangels" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
   </a>
 </p>
