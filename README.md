@@ -8,7 +8,7 @@ I’m all about making things happen with bits and bytes.
 
 - 🌍 **Where I’m At** - Denver, CO, USA
 - ✉️ **Hit Me Up** - [matt@doubleangels.com](mailto:matt@doubleangels.com)
-- 🚀 **Current Gig** - Working on [NextDNS Manager](http://github.com/mtverlee/nextdnsmanager)
+- 🚀 **Current Gig** - Working on [NextDNS Manager](https://github.com/doubleangels/nextdnsmanager) and [Redact](https://github.com/doubleangels/redact)
 - 🧠 **Learning Curve** - I'm diving into React right now!
 - 🤝 **Open to Collabs** - I'm always up for cool projects and ideas!
 - ⚡ **My Vibe** - I believe technology has endless possibilities!
